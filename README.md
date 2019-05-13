@@ -21,6 +21,21 @@ This Script can be used to find out some of your System details.
 + Your Disk Status. ( Information of your file system in human readable format. )
 
 ***
+### How to use this script?
+
+In Ubuntu, Launch the terminal and type the following code:
+```console
+p3l@davinci:~/Documents/Scripts$ bash ./sysinfo.sh
+```
+or Simply try:
+```console
+p3l@davinci:~/Documents/Scripts$ ./sysinfo.sh
+```
+
+
+
+
+***
 
 This is a Simple Script just made for fun.
 
