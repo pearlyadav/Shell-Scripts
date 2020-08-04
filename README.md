@@ -1,4 +1,4 @@
-# System-Info
+# Shell-Scripts
 Shell scripts for Everyday Use.
 
 ***
@@ -7,11 +7,7 @@ Shell scripts for Everyday Use.
 
 In Ubuntu, Launch the terminal and type the following code:
 ```console
-p3l@davinci:~/Documents/Scripts$ bash ./sysinfo.sh
-```
-or Simply try:
-```console
-p3l@davinci:~/Documents/Scripts$ ./sysinfo.sh
+p3l@davinci:~/Documents/Scripts$ bash script-name.sh
 ```
 
 ***
